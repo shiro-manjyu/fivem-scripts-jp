@@ -49,7 +49,7 @@ FiveMのサーバー構築が初めての方や、海外サイトでの決済に
 
 スクリプト導入時の不具合や、データベース（SQL）関連のエラー、Configの設定方法などでご不明な点がある場合は、公式Discordのサポートチケットよりお問い合わせください。
 
-👉 **[公式Discordサーバーに参加してサポートを受ける](あなたのDiscord招待URL)**
+👉 **[公式Discordサーバーに参加してサポートを受ける](https://discord.com/invite/yXdqRYFnFF)**
 
 ---
 *関連キーワード: FiveM, スクリプト, サーバー構築, ESX, QBCore, 導入方法, 日本語化, Tebex 買い方, config.lua 設定, エラー解決*
