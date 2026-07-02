@@ -41,9 +41,9 @@ FiveMのサーバー構築が初めての方や、海外サイトでの決済に
   
 
 ### 💎 プレミアムスクリプト(QBCore)
-* **[shiro-foodmenu]** - カスタムレシピ＆食品作成システム（[Tebexで購入](https://shiro-development.tebex.io/package/7504706) / [詳細・導入マニュアル](./script1.md)）
+* **[shiro-foodmenu]** - カスタムレシピ＆食品作成システム（[Tebexで購入](https://shiro-development.tebex.io/package/7504706) / [詳細・導入マニュアル](docs/shiro-foodmenu.md)）
   
-* **[shiro-pointcard]** - マルチストアポイントカードアプリ（[Tebexで購入](https://shiro-development.tebex.io/package/7501433) / [詳細・導入マニュアル](./script2.md)）
+* **[shiro-pointcard]** - マルチストアポイントカードアプリ（[Tebexで購入](https://shiro-development.tebex.io/package/7501433) / [詳細・導入マニュアル](docs/shiro-pointcard.md)）
 
 
 *(※随時、新しいスクリプトとドキュメントを追加予定です)*
