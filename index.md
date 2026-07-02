@@ -25,8 +25,8 @@ Tebexでの購入からサーバーへの実装、よくあるエラーの解決
 FiveMのサーバー構築が初めての方や、海外サイトでの決済に不安がある方は、まず以下の解説記事をご覧ください。
 
 * [【画像付き】Tebexでの安全な購入方法とKeymasterの使い方](docs/guide-tebex.md)
-* [FiveMスクリプトの基本的な導入手順とserver.cfgの書き方（ESX / QBCore）](./guide-install.md)
-* [スクリプトが動かない・エラーが出たときのよくある質問（FAQ）](./faq.md)
+* [FiveMスクリプトの基本的な導入手順とserver.cfgの書き方（ESX / QBCore）](docs/guide-install.md)
+* [スクリプトが動かない・エラーが出たときのよくある質問（FAQ）](docs/faq.md)
 
 ---
 
