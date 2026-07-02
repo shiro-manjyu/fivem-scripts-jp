@@ -36,14 +36,15 @@ FiveMのサーバー構築が初めての方や、海外サイトでの決済に
 
 現在Tebexにて販売中のスクリプト一覧です。各リンクから詳細な機能解説と設定方法をご確認いただけます。
 
-### 🆓 無料リリース (Free)
+### 🆓 無料リリース(QBCore)
 * **[shiro-carrybike]** - リアルな自転車持ち運びシステム（[Tebexで入手](https://shiro-development.tebex.io/) / [詳細・導入マニュアル](docs/shiro-carrybike/)）
   
 
-### 💎 プレミアムスクリプト (Premium)
-* **[QBCore][shiro-foodmenu]** - カスタムレシピ＆食品作成システム（[Tebexで購入](https://shiro-development.tebex.io/package/7504706) / [詳細・導入マニュアル](./script1.md)）
+### 💎 プレミアムスクリプト(QBCore)
+* **[shiro-foodmenu]** - カスタムレシピ＆食品作成システム（[Tebexで購入](https://shiro-development.tebex.io/package/7504706) / [詳細・導入マニュアル](./script1.md)）
   
-* **[QBCore][shiro-pointcard]** - マルチストアポイントカードアプリ（[Tebexで購入](https://shiro-development.tebex.io/package/7501433) / [詳細・導入マニュアル](./script2.md)）
+* **[shiro-pointcard]** - マルチストアポイントカードアプリ（[Tebexで購入](https://shiro-development.tebex.io/package/7501433) / [詳細・導入マニュアル](./script2.md)）
+
 
 *(※随時、新しいスクリプトとドキュメントを追加予定です)*
 
