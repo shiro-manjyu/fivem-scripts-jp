@@ -34,6 +34,10 @@ FiveMのサーバー構築が初めての方や、海外サイトでの決済に
 
 現在Tebexにて販売中のスクリプト一覧です。各リンクから詳細な機能解説と設定方法をご確認いただけます。
 
+### 🆓 無料リリース (Free)
+* **[shiro-carrybike]** - リアルな自転車持ち運びシステム（[Tebexで入手](https://shiro-development.tebex.io/) / [詳細・導入マニュアル](docs/shiro-carrybike/)）
+
+### 💎 プレミアムスクリプト (Premium)
 * **[Script Name 1]** - スクリプトの簡潔な機能説明（[Tebexで購入](#) / [詳細・導入マニュアル](./script1.md)）
 * **[Script Name 2]** - スクリプトの簡潔な機能説明（[Tebexで購入](#) / [詳細・導入マニュアル](./script2.md)）
 
