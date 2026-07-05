@@ -1,3 +1,8 @@
+---
+layout: default
+title: "【完全日本語対応】FiveMスクリプト導入ガイド | QBCore対応"
+description: "日本のFiveMサーバー管理者向け。Tebexでの購入方法からconfig.luaの日本語設定まで、初心者にも分かりやすく徹底解説します。"
+---
 # 🏙️ FiveM スクリプト 日本語ドキュメント | サーバー構築＆導入ガイド
 
 当サイトは、日本のFiveMサーバー管理者・開発者向けの**スクリプト導入ガイドおよび公式ドキュメント**です。
@@ -41,7 +46,9 @@ FiveMのサーバー構築が初めての方や、海外サイトでの決済に
   
 
 ### 💎 プレミアムスクリプト(QBCore)
-* **[shiro-foodmenu]** - カスタムレシピ＆食品作成システム（[Tebexで購入](https://shiro-development.tebex.io/package/7504706) / [詳細・導入マニュアル](docs/shiro-foodmenu.md)）
+* **[shiro-foodmenu]** - カスタムレシピ＆食品作成システム<a href="https://shiro-development.tebex.io/package/7504706" style="display: inline-block; padding: 12px 24px; background-color: #2c2c2c; color: #ffffff; text-decoration: none; border-radius: 4px; font-weight: bold; border: 1px solid #444; box-shadow: 0 2px 4px rgba(0,0,0,0.3); transition: 0.3s;">
+  🛒 Tebexでスクリプトを購入する
+</a>/ [詳細・導入マニュアル](docs/shiro-foodmenu.md)）
   
 * **[shiro-pointcard]** - マルチストアポイントカードアプリ（[Tebexで購入](https://shiro-development.tebex.io/package/7501433) / [詳細・導入マニュアル](docs/shiro-pointcard.md)）
 
