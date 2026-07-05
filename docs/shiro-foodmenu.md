@@ -1,17 +1,35 @@
+---
+layout: single
+title: "[プレミアム/QBCore] shiro-foodmenu - オリジナル料理開発・飲食店システム"
+description: "FiveM (QBCore) サーバー向け。飲食店のボスがゲーム内でオリジナルメニューを開発・申請できる、超高機能な料理システムの導入マニュアルです。"
+---
+
 # 🍳 [QBCore] shiro-foodmenu - オリジナル料理開発・飲食店システム
 
 ![Banner Image](https://dunb17ur4ymx4.cloudfront.net/packages/images/0414f81695cad72ba1c41a79dbf51cbb9720eb0b.jpg)
 
-> 🛒 **ご購入はこちら (Tebex Store)**
-> 👉 **[Tebexで shiro-foodmenu を購入する](https://shiro-development.tebex.io/package/7504706)**
-> *(※本スクリプトは FiveM Asset Escrow にて安全に暗号化保護されています)*
+> 🎁 **Notice**: 本スクリプトは FiveM Asset Escrow にて安全に暗号化保護されています。
+
+<br>
+<a href="https://shiro-development.tebex.io/package/7504706" style="display: inline-block; padding: 12px 28px; background-color: #2b2b2b; color: #d4af37; text-decoration: none; border-radius: 2px; font-weight: bold; border: 1px solid #555; box-shadow: 0 4px 6px rgba(0,0,0,0.3);">👉 Tebex Storeで購入する</a>
+<br><br>
 
 `shiro-foodmenu` は、飲食店のボス（店長）などのプレイヤーが、**ゲーム内で独自の料理や飲み物を開発し、サーバーに申請できる**高度な飲食店向けシステムです。
 プレイヤーの「自分だけのメニューを作りたい！」というロールプレイを叶えつつ、サーバー運営の負担を極限まで減らす設計になっています。
 
+---
+
+* 目次
+{:toc}
+
+---
+
 ## 🎥 プレビュー動画 (Preview)
 実際のゲーム内UIや開発申請の様子はこちらからご覧ください。
-👉 [YouTubeでプレビュー動画を見る](https://youtu.be/VFewOHetsJ0?si=aNWv6VNtWOcLZkHb)
+
+<br>
+<a href="https://youtu.be/VFewOHetsJ0?si=aNWv6VNtWOcLZkHb" style="display: inline-block; padding: 12px 28px; background-color: #cc0000; color: #ffffff; text-decoration: none; border-radius: 2px; font-weight: bold; box-shadow: 0 4px 6px rgba(0,0,0,0.3);">▶️ YouTubeでプレビュー動画を見る</a>
+<br><br>
 
 ---
 
@@ -62,35 +80,3 @@
    *(※必ず `qb-core` 等のコアシステムよりも**後**に読み込まれるように記述してください)*
 ```cfg
 ensure shiro-foodmenu
-```
-
----
-
-## ⚙️ 設定ファイル (Configuration)
-
-`config.lua` 内の主要な設定項目です。UIはHTML/CSS/JSで構成されており、デザインを自由にカスタマイズ可能です。
-
-```lua
-Config.Locale = 'ja' -- 言語設定 ('en' または 'ja')
-Config.TargetSystem = 'qb-target' -- 使用するターゲット ('qb-target' または 'ox_target')
-
--- 使用するインベントリに合わせた画像パスのベースURL
-Config.InventoryPath = 'nui://qb-inventory/html/images/' 
--- ox_inventoryの場合は 'nui://ox_inventory/web/images/'
-
--- 料理申請が来た際のDiscord通知用URL
-Config.WebhookURL = "[https://discord.com/api/webhooks/](https://discord.com/api/webhooks/)..."
-```
-
----
-
-## 💬 サポート & お問い合わせ
-
-設定に関するご質問やバグ報告、その他の高品質なスクリプトについては、公式DiscordおよびTebexストアをご確認ください！
-
-* 🛒 **Tebex Store:** [Shiro Development](https://shiro-development.tebex.io/)
-* 💬 **Discord Support:** [コミュニティに参加する](https://discord.com/invite/yXdqRYFnFF)
-
----
-*© 2026 Shiro. All rights reserved.*
-*(関連キーワード: FiveM, QBCore, 飲食店, 料理スクリプト, qb-target, ox_inventory, ロールプレイ, カスタムアイテム)*
