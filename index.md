@@ -3,11 +3,17 @@ layout: default
 title: "【完全日本語対応】FiveMスクリプト導入ガイド | QBCore対応"
 description: "日本のFiveMサーバー管理者向け。Tebexでの購入方法からconfig.luaの日本語設定まで、初心者にも分かりやすく徹底解説します。"
 ---
+
 # 🏙️ FiveM スクリプト 日本語ドキュメント | サーバー構築＆導入ガイド
 
 当サイトは、日本のFiveMサーバー管理者・開発者向けの**スクリプト導入ガイドおよび公式ドキュメント**です。
 
 「海外製のスクリプトは英語ばかりで導入のハードルが高い」「導入したい機能はあるけどスクリプトが高い」「設定（Config）の理解・編集に時間がかかる」といったサーバー構築時の悩みを解決するため、誰もが簡単かつ低価格で導入できる日本語対応スクリプトを作成・提供・解説しています。
+
+---
+
+* 目次
+{:toc}
 
 ---
 
@@ -30,9 +36,7 @@ Tebexでの購入からサーバーへの実装、よくあるエラーの解決
 FiveMのサーバー構築が初めての方や、海外サイトでの決済に不安がある方は、まず以下の解説記事をご覧ください。
 
 * [【画像付き】Tebexでの安全な購入方法とKeymasterの使い方](docs/guide-tebex.md)
-  
 * [FiveMスクリプトの基本的な導入手順とserver.cfgの書き方（ESX / QBCore）](docs/guide-install.md)
-  
 * [スクリプトが動かない・エラーが出たときのよくある質問（FAQ）](docs/faq.md)
 
 ---
@@ -42,19 +46,29 @@ FiveMのサーバー構築が初めての方や、海外サイトでの決済に
 現在Tebexにて販売中のスクリプト一覧です。各リンクから詳細な機能解説と設定方法をご確認いただけます。
 
 ### 🆓 無料リリース(QBCore)
-* **[shiro-carrybike]** - リアルな自転車持ち運びシステム（[Tebexで入手](https://shiro-development.tebex.io/) / [詳細・導入マニュアル](docs/shiro-carrybike.md)
-  
+
+**[shiro-carrybike]** - リアルな自転車持ち運びシステム
+<br>
+<a href="https://shiro-development.tebex.io/" style="display: inline-block; padding: 10px 24px; background-color: #1a1a1a; color: #e0e0e0; text-decoration: none; border-radius: 2px; font-weight: bold; border: 1px solid #333; box-shadow: 0 4px 6px rgba(0,0,0,0.4);">🆓 Tebexで入手する</a>
+<a href="docs/shiro-carrybike.md" style="display: inline-block; padding: 10px 24px; background-color: #2b2b2b; color: #d4af37; text-decoration: none; border-radius: 2px; font-weight: bold; border: 1px solid #555; margin-left: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.2);">📖 詳細・導入マニュアル</a>
+
+<br><br>
 
 ### 💎 プレミアムスクリプト(QBCore)
-* **[shiro-foodmenu]** - カスタムレシピ＆食品作成システム
-* <a href="https://shiro-development.tebex.io/package/7504706" style="display: inline-block; padding: 12px 24px; background-color: #2c2c2c; color: #ffffff; text-decoration: none; border-radius: 4px; font-weight: bold; border: 1px solid #444; box-shadow: 0 2px 4px rgba(0,0,0,0.3); transition: 0.3s;">
-  🛒 Tebexでスクリプトを購入する
-</a> <a href="https://shiro-development.tebex.io/package/7504706" style="display: inline-block; padding: 12px 24px; background-color: #2c2c2c; color: #ffffff; text-decoration: none; border-radius: 4px; font-weight: bold; border: 1px solid #444; box-shadow: 0 2px 4px rgba(0,0,0,0.3); transition: 0.3s;">
-  📖 詳細・導入マニュアル
-</a>
-  
-* **[shiro-pointcard]** - マルチストアポイントカードアプリ（[Tebexで購入](https://shiro-development.tebex.io/package/7501433) / [詳細・導入マニュアル](docs/shiro-pointcard.md)）
 
+**[shiro-foodmenu]** - カスタムレシピ＆食品作成システム
+<br>
+<a href="https://shiro-development.tebex.io/package/7504706" style="display: inline-block; padding: 10px 24px; background-color: #1a1a1a; color: #e0e0e0; text-decoration: none; border-radius: 2px; font-weight: bold; border: 1px solid #333; box-shadow: 0 4px 6px rgba(0,0,0,0.4);">💎 Tebexで購入する</a>
+<a href="docs/shiro-foodmenu.md" style="display: inline-block; padding: 10px 24px; background-color: #2b2b2b; color: #d4af37; text-decoration: none; border-radius: 2px; font-weight: bold; border: 1px solid #555; margin-left: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.2);">📖 詳細・導入マニュアル</a>
+
+<br><br>
+
+**[shiro-pointcard]** - マルチストアポイントカードアプリ
+<br>
+<a href="https://shiro-development.tebex.io/package/7501433" style="display: inline-block; padding: 10px 24px; background-color: #1a1a1a; color: #e0e0e0; text-decoration: none; border-radius: 2px; font-weight: bold; border: 1px solid #333; box-shadow: 0 4px 6px rgba(0,0,0,0.4);">💎 Tebexで購入する</a>
+<a href="docs/shiro-pointcard.md" style="display: inline-block; padding: 10px 24px; background-color: #2b2b2b; color: #d4af37; text-decoration: none; border-radius: 2px; font-weight: bold; border: 1px solid #555; margin-left: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.2);">📖 詳細・導入マニュアル</a>
+
+<br><br>
 
 *(※随時、新しいスクリプトとドキュメントを追加予定です)*
 
@@ -64,7 +78,5 @@ FiveMのサーバー構築が初めての方や、海外サイトでの決済に
 
 スクリプト導入時の不具合や、データベース（SQL）関連のエラー、Configの設定方法などでご不明な点がある場合は、公式Discordのサポートチケットよりお問い合わせください。
 
-👉 **[公式Discordサーバーに参加してサポートを受ける](https://discord.com/invite/yXdqRYFnFF)**
-
----
-*関連キーワード: FiveM, スクリプト, サーバー構築, ESX, QBCore, 導入方法, 日本語化, Tebex 買い方, config.lua 設定, エラー解決*
+<br>
+<a href="https://discord.com/invite/yXdqRYFnFF" style="display: inline-block; padding: 12px 28px; background-color: #5865F2; color: #ffffff; text-decoration: none; border-radius: 2px; font-weight: bold; box-shadow: 0 4px 6px rgba(0,0,0,0.3); border: 1px solid #4752c4;">👉 公式Discordサーバーに参加してサポートを受ける</a>
