@@ -46,9 +46,12 @@ FiveMのサーバー構築が初めての方や、海外サイトでの決済に
   
 
 ### 💎 プレミアムスクリプト(QBCore)
-* **[shiro-foodmenu]** - カスタムレシピ＆食品作成システム<a href="https://shiro-development.tebex.io/package/7504706" style="display: inline-block; padding: 12px 24px; background-color: #2c2c2c; color: #ffffff; text-decoration: none; border-radius: 4px; font-weight: bold; border: 1px solid #444; box-shadow: 0 2px 4px rgba(0,0,0,0.3); transition: 0.3s;">
+* **[shiro-foodmenu]** - カスタムレシピ＆食品作成システム
+* <a href="https://shiro-development.tebex.io/package/7504706" style="display: inline-block; padding: 12px 24px; background-color: #2c2c2c; color: #ffffff; text-decoration: none; border-radius: 4px; font-weight: bold; border: 1px solid #444; box-shadow: 0 2px 4px rgba(0,0,0,0.3); transition: 0.3s;">
   🛒 Tebexでスクリプトを購入する
-</a>/ [詳細・導入マニュアル](docs/shiro-foodmenu.md)）
+</a> <a href="https://shiro-development.tebex.io/package/7504706" style="display: inline-block; padding: 12px 24px; background-color: #2c2c2c; color: #ffffff; text-decoration: none; border-radius: 4px; font-weight: bold; border: 1px solid #444; box-shadow: 0 2px 4px rgba(0,0,0,0.3); transition: 0.3s;">
+  📖 詳細・導入マニュアル
+</a>
   
 * **[shiro-pointcard]** - マルチストアポイントカードアプリ（[Tebexで購入](https://shiro-development.tebex.io/package/7501433) / [詳細・導入マニュアル](docs/shiro-pointcard.md)）
 
