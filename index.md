@@ -50,7 +50,7 @@ FiveMのサーバー構築が初めての方や、海外サイトでの決済に
 **[shiro-carrybike]** - リアルな自転車持ち運びシステム
 <br>
 <a href="https://shiro-development.tebex.io/" style="display: inline-block; padding: 10px 24px; background-color: #1a1a1a; color: #e0e0e0; text-decoration: none; border-radius: 2px; font-weight: bold; border: 1px solid #333; box-shadow: 0 4px 6px rgba(0,0,0,0.4);">🆓 Tebexで入手する</a>
-<a href="docs/shiro-carrybike.md" style="display: inline-block; padding: 10px 24px; background-color: #2b2b2b; color: #d4af37; text-decoration: none; border-radius: 2px; font-weight: bold; border: 1px solid #555; margin-left: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.2);">📖 詳細・導入マニュアル</a>
+<a href="docs/shiro-carrybike.html" style="display: inline-block; padding: 10px 24px; background-color: #2b2b2b; color: #d4af37; text-decoration: none; border-radius: 2px; font-weight: bold; border: 1px solid #555; margin-left: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.2);">📖 詳細・導入マニュアル</a>
 
 <br><br>
 
@@ -59,14 +59,14 @@ FiveMのサーバー構築が初めての方や、海外サイトでの決済に
 **[shiro-foodmenu]** - カスタムレシピ＆食品作成システム
 <br>
 <a href="https://shiro-development.tebex.io/package/7504706" style="display: inline-block; padding: 10px 24px; background-color: #1a1a1a; color: #e0e0e0; text-decoration: none; border-radius: 2px; font-weight: bold; border: 1px solid #333; box-shadow: 0 4px 6px rgba(0,0,0,0.4);">💎 Tebexで購入する</a>
-<a href="docs/shiro-foodmenu.md" style="display: inline-block; padding: 10px 24px; background-color: #2b2b2b; color: #d4af37; text-decoration: none; border-radius: 2px; font-weight: bold; border: 1px solid #555; margin-left: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.2);">📖 詳細・導入マニュアル</a>
+<a href="docs/shiro-foodmenu.html" style="display: inline-block; padding: 10px 24px; background-color: #2b2b2b; color: #d4af37; text-decoration: none; border-radius: 2px; font-weight: bold; border: 1px solid #555; margin-left: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.2);">📖 詳細・導入マニュアル</a>
 
 <br><br>
 
 **[shiro-pointcard]** - マルチストアポイントカードアプリ
 <br>
 <a href="https://shiro-development.tebex.io/package/7501433" style="display: inline-block; padding: 10px 24px; background-color: #1a1a1a; color: #e0e0e0; text-decoration: none; border-radius: 2px; font-weight: bold; border: 1px solid #333; box-shadow: 0 4px 6px rgba(0,0,0,0.4);">💎 Tebexで購入する</a>
-<a href="docs/shiro-pointcard.md" style="display: inline-block; padding: 10px 24px; background-color: #2b2b2b; color: #d4af37; text-decoration: none; border-radius: 2px; font-weight: bold; border: 1px solid #555; margin-left: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.2);">📖 詳細・導入マニュアル</a>
+<a href="docs/shiro-pointcard.html" style="display: inline-block; padding: 10px 24px; background-color: #2b2b2b; color: #d4af37; text-decoration: none; border-radius: 2px; font-weight: bold; border: 1px solid #555; margin-left: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.2);">📖 詳細・導入マニュアル</a>
 
 <br><br>
 
