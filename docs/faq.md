@@ -1,6 +1,17 @@
+---
+layout: single
+title: "よくある質問（FAQ）とエラー解決 | FiveM スクリプト導入ガイド"
+description: "FiveMスクリプト導入時のよくあるエラー（Couldn't find resource、Keymaster認証エラー、SQLエラーなど）と解決方法を日本語で解説します。"
+---
+
 # ❓ よくある質問（FAQ）とエラーの解決方法
 
 スクリプトが正常に動かない、またはサーバーコンソール（黒い画面）やF8コンソールに赤いエラーが出る場合は、まずこちらのページをご確認ください。
+
+---
+
+* 目次
+{:toc}
 
 ---
 
@@ -13,7 +24,7 @@
 
 ### Q. `You lack the required entitlement to use [スクリプト名]` というエラーが出ます。
 **A. Keymaster（Escrowシステム）の認証エラーです。以下の原因が考えられます。**
-1. スクリプトを購入したCfx.reアカウントと、サーバーのライセンスキー（sv_licenseKey）を発行したアカウントが異なっている。
+1. スクリプトを購入したCfx.reアカウントと、サーバーのライセンスキー（`sv_licenseKey`）を発行したアカウントが異なっている。
 2. サーバーがインターネットに正しく接続されておらず、Tebex/Keymaster側のライセンス確認に失敗している。
 3. サーバーのバージョン（Artifacts）が古すぎる。最新の推奨バージョンにアップデートしてください。
 
@@ -49,13 +60,12 @@
 
 上記を確認しても問題が解決しない場合は、公式Discordにてサポートを行っております。
 
-👉 **[公式Discordサーバーに参加する](あなたのDiscord招待URL)**
+<br>
+<a href="https://discord.com/invite/yXdqRYFnFF" style="display: inline-block; padding: 12px 28px; background-color: #5865F2; color: #ffffff; text-decoration: none; border-radius: 2px; font-weight: bold; box-shadow: 0 4px 6px rgba(0,0,0,0.3); border: 1px solid #4752c4;">👉 公式Discordサーバーに参加してサポートを受ける</a>
+<br><br>
 
 **【💡 お問い合わせをスムーズに進めるためのお願い】**
 チケット（お問い合わせ）を作成する際は、以下の情報を添えていただけると早期解決に繋がります。
 1. **ご購入を証明するもの:** Keymasterの `Granted Assets` 画面のスクリーンショット（※Tebexの領収書メールのスクショでも可）
 2. **エラー画面:** サーバーコンソール、またはゲーム内のF8コンソールのエラー部分（赤文字）のスクリーンショット
 3. **サーバー環境:** ESX / QBCore のどちらを使用しているか
-
----
-*関連キーワード: FiveM, スクリプト, サーバー構築, ESX, QBCore, 導入方法, 日本語化, Tebex 買い方, config.lua 設定, エラー解決*
