@@ -1,18 +1,36 @@
+---
+layout: single
+title: "[プレミアム/QBCore] shiro-pointcard - マルチ店舗対応ポイントカードシステム"
+description: "FiveM (QBCore) サーバー向け。複数店舗のポイントカードを1つのUIに統合し、ゲーム内から店舗情報が編集可能な高機能ポイントカードシステムの導入マニュアルです。"
+---
+
 # 💳 [QBCore] shiro-pointcard - マルチ店舗対応 オールインワンポイントカードシステム
 
 ![Banner Image](https://dunb17ur4ymx4.cloudfront.net/packages/images/a8f1029417b820761d292233d0a7e7b859dad8ff.jpg)
 
-> 🛒 **ご購入はこちら (Tebex Store)**
-> 👉 **[Tebexで shiro-pointcard を購入する](https://shiro-development.tebex.io/package/7501433)**
-> *(※本スクリプトは FiveM Asset Escrow にて安全に暗号化保護されています)*
+> 🎁 **Notice**: 本スクリプトは FiveM Asset Escrow にて安全に暗号化保護されています。
+
+<br>
+<a href="https://shiro-development.tebex.io/package/7501433" style="display: inline-block; padding: 12px 28px; background-color: #2b2b2b; color: #d4af37; text-decoration: none; border-radius: 2px; font-weight: bold; border: 1px solid #555; box-shadow: 0 4px 6px rgba(0,0,0,0.3);">👉 Tebex Storeで購入する</a>
+<br><br>
 
 `shiro-pointcard` は、サーバー内に存在する複数店舗のポイントカードを、1つの洗練された専用アプリUIに統合する次世代のポイントシステムです。
 
 インベントリを大量のカードアイテムで圧迫することなく、プレイヤーは自身のポイント残高をスマートに確認でき、店舗側は安全かつ確実にポイントの付与・減算操作を行うことができます。
 
+---
+
+* 目次
+{:toc}
+
+---
+
 ## 🎥 プレビュー動画 (Preview)
 実際のゲーム内UIや、店員と客のポイント付与のやり取りはこちらからご覧ください。
-👉 [YouTubeでプレビュー動画を見る](https://youtu.be/JYf2TQXgoJk?si=UKjsAmL9n8IZs1_j)
+
+<br>
+<a href="https://youtu.be/JYf2TQXgoJk?si=UKjsAmL9n8IZs1_j" style="display: inline-block; padding: 12px 28px; background-color: #cc0000; color: #ffffff; text-decoration: none; border-radius: 2px; font-weight: bold; box-shadow: 0 4px 6px rgba(0,0,0,0.3);">▶️ YouTubeでプレビュー動画を見る</a>
+<br><br>
 
 ---
 
@@ -53,17 +71,3 @@
    `server.cfg` を開き、以下の記述を追記します。
 ```cfg
 ensure shiro-pointcard
-```
-
----
-
-## 💬 サポート & お問い合わせ
-
-設定に関するご質問やバグ報告、その他の高品質なスクリプトについては、公式DiscordおよびTebexストアをご確認ください！
-
-* 🛒 **Tebex Store:** [Shiro Development](https://shiro-development.tebex.io/)
-* 💬 **Discord Support:** [コミュニティに参加する](https://discord.com/invite/yXdqRYFnFF)
-
----
-*© 2026 Shiro. All rights reserved.*
-*(関連キーワード: FiveM, QBCore, ポイントカード, 飲食店運営, ロールプレイ, カスタムUI, チート対策, サーバー最適化)*
