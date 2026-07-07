@@ -9,4 +9,5 @@ minimal_mistakes_skin: "dark"
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 plugins:
   - jekyll-include-cache
+  - jekyll-sitemap
 google_analytics: G-VQWC472ZL9
