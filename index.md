@@ -1,4 +1,8 @@
 ---
+layout: single
+title: "【完全日本語対応】FiveMスクリプト導入ガイド | QBCore対応"
+description: "日本のFiveMサーバー管理者向け。Tebexでの購入方法からconfig.luaの日本語設定まで、初心者にも分かりやすく徹底解説します。"
+---
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-VQWC472ZL9"></script>
 <script>
@@ -8,11 +12,6 @@
 
   gtag('config', 'G-VQWC472ZL9');
 </script>
-layout: single
-title: "【完全日本語対応】FiveMスクリプト導入ガイド | QBCore対応"
-description: "日本のFiveMサーバー管理者向け。Tebexでの購入方法からconfig.luaの日本語設定まで、初心者にも分かりやすく徹底解説します。"
----
-
 # 🏙️ FiveM スクリプト 日本語ドキュメント | サーバー構築＆導入ガイド
 
 当サイトは、日本のFiveMサーバー管理者・開発者向けの**スクリプト導入ガイドおよび公式ドキュメント**です。
