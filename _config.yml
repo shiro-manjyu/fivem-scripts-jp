@@ -10,4 +10,5 @@ remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 plugins:
   - jekyll-include-cache
   - jekyll-sitemap
+  url: "https://shiro-manjyu.github.io/fivem-scripts-jp/"
 google_analytics: G-VQWC472ZL9
