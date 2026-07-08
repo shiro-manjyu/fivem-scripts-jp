@@ -1,3 +1,12 @@
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-VQWC472ZL9"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-VQWC472ZL9');
+</script>
 ---
 layout: single
 title: "【完全日本語対応】FiveMスクリプト導入ガイド | QBCore対応"
