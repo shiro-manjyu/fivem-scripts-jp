@@ -80,3 +80,27 @@ description: "FiveM (QBCore) サーバー向け。飲食店のボスがゲーム
    *(※必ず `qb-core` 等のコアシステムよりも**後**に読み込まれるように記述してください)*
 ```cfg
 ensure shiro-foodmenu
+```
+---
+## ⚠️ 導入時・運用時の注意点 (Important Notes)
+
+* **アイテム画像の追加について（最重要）**
+  プレイヤーから申請されたオリジナル料理を管理者が承認した後は、**必ずお使いのインベントリの画像フォルダ（`html/images` 等）に対応するアイテム画像（`.png` 等）を追加**してください。画像を追加しない場合、プレイヤーのインベントリ上でアイテムが透明になってしまいます。
+* **Discord Webhookの確認**
+  新メニューの申請通知を正しく受け取るために、`config.lua` にDiscord WebhookのURLが正確に設定されているか確認してください。ここが未設定だと、プレイヤーが申請を出しても管理者が気づけない可能性があります。
+* **データベースの実行忘れにご注意ください**
+  サーバーを起動する前に、必ず同梱の `custom_recipes.sql` をデータベースにインポートしてください。この手順を飛ばすと、オリジナルメニューの保存や読み込み時にエラーが発生します。
+* **ジョブ名とボス権限の完全一致**
+  Configで「料理を開発できるジョブ」として指定する名前は、サーバー（`qb-core/shared/jobs.lua` 等）に登録されている正確なジョブIDと一致させる必要があります。
+* **スクリプトの起動順序**
+  `server.cfg` では、必ず `qb-core` や `oxmysql` などの前提リソースが読み込まれた**後**に `ensure shiro-foodmenu` を記述してください。
+
+---
+
+## 💬 サポート & その他のスクリプト
+サポートやバグ報告、その他高品質なスクリプトについては、DiscordおよびTebexストアをご確認ください！
+
+* **Tebex Store:** [https://shiro-development.tebex.io/](https://shiro-development.tebex.io/)
+* **Discord サポート:** [https://discord.com/invite/yXdqRYFnFF](https://discord.com/invite/yXdqRYFnFF)
+
+© 2026 Shiro. All rights reserved.
