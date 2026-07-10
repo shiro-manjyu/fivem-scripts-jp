@@ -6,7 +6,7 @@ description: "FiveM (QBCore) サーバー向け。プレイヤー自身が店舗
 
 # 🏪 [QBCore] shiro-jobshop - プレイヤー主導型ジョブショップシステム
 
-![Banner Image](https://ここにバナー画像のURLを入れてください.jpg)
+![Banner Image](https://dunb17ur4ymx4.cloudfront.net/packages/images/9e3dab6f4e0c61f8d21c6c15013126d47290ad8c.png)
 
 > 🎁 **Notice**: 本スクリプトは FiveM Asset Escrow にて安全に暗号化保護されています。（Config、UI、言語ファイルは自由に編集可能です）
 
