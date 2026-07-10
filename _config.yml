@@ -2,13 +2,18 @@ title: "fivem-scripts-jp"
 description: "日本のFiveMサーバー管理者向けスクリプト導入ガイド"
 repository: "shiro-manjyu/fivem-scripts-jp"
 
+# URL設定 (プロジェクトページ用の正しい書き方)
+url: "https://shiro-manjyu.github.io"
+baseurl: "/fivem-scripts-jp"
+
 # ここでダークテーマを指定します
 minimal_mistakes_skin: "dark"
 
 # GitHub Pagesでこのテーマを読み込む必須設定
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+
 plugins:
   - jekyll-include-cache
   - jekyll-sitemap
-  url: "https://shiro-manjyu.github.io/fivem-scripts-jp/"
+
 google_analytics: G-VQWC472ZL9
