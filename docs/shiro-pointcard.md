@@ -71,3 +71,26 @@ description: "FiveM (QBCore) サーバー向け。複数店舗のポイントカ
    `server.cfg` を開き、以下の記述を追記します。
 ```cfg
 ensure shiro-pointcard
+```
+---
+
+## ⚠️ 導入時・運用時の注意点 (Important Notes)
+
+* **アイテム画像とインベントリ設定（UseItem=trueの場合）**
+  ポイントカードをアイテムとして使用する場合、アイテムの登録だけでなく、お使いのインベントリの画像フォルダ（`html/images` 等）に必ず `pointwallet.png` などの対応する画像を追加してください。
+* **ボスメニューの編集権限について**
+  UI内から店舗情報を編集できるのは、その店舗の「ボス権限」を持つプレイヤーのみです。これはQBCoreのジョブ設定において、該当プレイヤーの役職（Grade）が `isboss = true` に設定されている必要があります。編集ボタンが表示されない場合は、サーバー側のジョブ権限設定をご確認ください。
+* **ジョブ名の完全一致**
+  Configで指定する各店舗のジョブ名は、サーバーに登録されている正確なID（システム名）と一致させる必要があります。ここが間違っていると、従業員として認識されずポイントの付与操作が行えません。
+* **データベースの実行忘れ**
+  サーバーを起動する前に、必ず同梱の `pointcards.sql` をインポートしてください。テーブルが存在しない場合、ポイントの付与や店舗情報の保存時に致命的なエラーが発生します。
+
+---
+
+## 💬 サポート & その他のスクリプト
+サポートやバグ報告、その他高品質なスクリプトについては、DiscordおよびTebexストアをご確認ください！
+
+* **Tebex Store:** [https://shiro-development.tebex.io/](https://shiro-development.tebex.io/)
+* **Discord サポート:** [https://discord.com/invite/yXdqRYFnFF](https://discord.com/invite/yXdqRYFnFF)
+
+© 2026 Shiro. All rights reserved.
