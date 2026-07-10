@@ -6,7 +6,7 @@ description: "FiveM (QBCore) サーバー向け。自転車を担いだまま車
 
 # 🚲 [無料/QBCore] shiro-carrybike - リアルな自転車持ち運びスクリプト
 
-![Banner Image](https://dunb17ur4ymx4.cloudfront.net/packages/images/5e25bc2efc135b5a7be0dab2b294ed30c85a42f0.jpg)
+![Banner Image](https://dunb17ur4ymx4.cloudfront.net/packages/images/97222df69c64a440451b6409c2f2bd8d26c08d3c.png)
 
 > 🎁 **Notice**: このスクリプトは**無料（FREE）**でご利用いただけます。まずは当ストアの品質と「圧倒的な軽さ」をお試しください！
 
