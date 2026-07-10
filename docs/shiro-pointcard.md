@@ -6,7 +6,7 @@ description: "FiveM (QBCore) サーバー向け。複数店舗のポイントカ
 
 # 💳 [QBCore] shiro-pointcard - マルチ店舗対応 オールインワンポイントカードシステム
 
-![Banner Image](https://dunb17ur4ymx4.cloudfront.net/packages/images/a8f1029417b820761d292233d0a7e7b859dad8ff.jpg)
+![Banner Image](https://dunb17ur4ymx4.cloudfront.net/packages/images/687f01f03378809a6178492030ea16e411147967.png)
 
 > 🎁 **Notice**: 本スクリプトは FiveM Asset Escrow にて安全に暗号化保護されています。
 
