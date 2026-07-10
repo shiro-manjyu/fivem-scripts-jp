@@ -78,7 +78,7 @@ FiveMのサーバー構築が初めての方や、海外サイトでの決済に
 
 <br><br>
 
-**[shiro-jobshop]** - マルチストアポイントカードアプリ
+**[shiro-jobshop]** - プレイヤー主導型ジョブショップシステム
 <br>
 <a href="https://shiro-development.tebex.io/package/7551724" style="display: inline-block; padding: 10px 24px; background-color: #1a1a1a; color: #e0e0e0; text-decoration: none; border-radius: 2px; font-weight: bold; border: 1px solid #333; box-shadow: 0 4px 6px rgba(0,0,0,0.4);">💎 Tebexで購入する</a>
 <a href="docs/shiro-jobshop.html" style="display: inline-block; padding: 10px 24px; background-color: #2b2b2b; color: #d4af37; text-decoration: none; border-radius: 2px; font-weight: bold; border: 1px solid #555; margin-left: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.2);">📖 詳細・導入マニュアル</a>
