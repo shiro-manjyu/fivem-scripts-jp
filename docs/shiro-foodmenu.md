@@ -6,7 +6,7 @@ description: "FiveM (QBCore) サーバー向け。飲食店のボスがゲーム
 
 # 🍳 [QBCore] shiro-foodmenu - オリジナル料理開発・飲食店システム
 
-![Banner Image](https://dunb17ur4ymx4.cloudfront.net/packages/images/0414f81695cad72ba1c41a79dbf51cbb9720eb0b.jpg)
+![Banner Image](https://dunb17ur4ymx4.cloudfront.net/packages/images/967a25ebd0677e9e8a25534966a7966c7b488d26.png)
 
 > 🎁 **Notice**: 本スクリプトは FiveM Asset Escrow にて安全に暗号化保護されています。
 
