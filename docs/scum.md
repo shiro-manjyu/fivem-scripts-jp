@@ -180,15 +180,8 @@
 <body>
 
   <div class="container">
-    <h1>キノコ（Mushrooms）</h1>
-    <p class="description">
-      キノコは、森林や山岳地帯で時折見つかる子実体です。森を探索していてしばらく何も食べていないときなどは、地面のキノコに気を配っておくのが腹を満たす良い手段になります。ただし、すべてのキノコが安全に食べられるわけではなく、食べてしまうと極度の疲労や衰弱、あるいは死に至ることもあります。
-    </p>
-
     <!-- 食用キノコセクション -->
-    <h2 class="section-title edible">食用キノコ（Edible mushrooms）</h2>
-    <p class="section-desc">安全に食べることができるキノコの一覧です。</p>
-    
+    <h2 class="section-title edible">食用キノコ（Edible mushrooms）</h2>    
     <div class="grid">
       <div class="card">
         <img class="card-img" src="https://static.wikia.nocookie.net/scum_gamepedia_en/images/d/db/Agaricus_Augustus.png/revision/latest/scale-to-width-down/92?cb=20220808050528" alt="アガリクス属の担子菌類">
